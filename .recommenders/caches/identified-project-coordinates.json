@@ -1,0 +1,1 @@
+[[{"location":"/usr/java/jdk1.7.0_67-cloudera","type":"JRE","hints":{}},"jre:jre:1.7.0"],[{"location":"/usr/lib/hadoop/hadoop-common.jar","type":"JAR","hints":{}},"org.apache.hadoop:hadoop-common:2.6.0"],[{"location":"/usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-core.jar","type":"JAR","hints":{}},"org.apache.hadoop:hadoop-mapreduce-client-core:2.6.0"]]
